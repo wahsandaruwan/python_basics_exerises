@@ -15,6 +15,8 @@ This repository contains basics about python programming language for beginners
 * OOP - 5
 * Unit Testing - 6
 
+### License : MIT
+
 ## You are welcome to this update this project if it contains any miss matches.
 
 
